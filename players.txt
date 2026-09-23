@@ -1,3 +1,7 @@
 2 sample players (name, sport, position)
+<<<<<<< HEAD
 sharukh, cricket, opener
+=======
+soham, cricket, opener
+>>>>>>> feature-update
 rahul, footballer, mid
