@@ -2,3 +2,4 @@
 sharukh, cricket, opener
 rahul, footballer, mid
 nice
+weather is clear
