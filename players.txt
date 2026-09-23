@@ -1,3 +1,3 @@
 2 sample players (name, sport, position)
-ritik, cricket, opener
+raunak, cricket, opener
 rahul, footballer, mid
