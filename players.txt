@@ -1,0 +1,3 @@
+2 sample players (name, sport, position)
+arya, cricket, opener
+rahul, footballer, mid
