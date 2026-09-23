@@ -1,0 +1,4 @@
+players age hould be more than 20+
+player should be fit and agile 
+player should have completed his degree 
+player should be living near the coaching center
